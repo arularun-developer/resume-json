@@ -23,7 +23,7 @@
         "position":"plant supervisor",
         "startdate":"2021-01-01",
         "enddate":"2023-04-01",
-        "summary":" i am the plant supervisor handing various problem and gaining lots of experience",
+        "summary":" i am the plant supervisor handing various problems and gaining lots of experience",
     },
 ],
  "education":[
